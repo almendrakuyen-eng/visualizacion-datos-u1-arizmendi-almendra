@@ -1,10 +1,9 @@
 # Análisis de Visualizaciones
 
 ## Visualización 1
-Pendiente de incorporar.
 
 ### Descripción
-Pendiente.
+Visualización pendiente de análisis.
 
 ### Evaluación Técnica
 Pendiente.
@@ -18,10 +17,9 @@ Pendiente.
 ---
 
 ## Visualización 2
-Pendiente de incorporar.
 
 ### Descripción
-Pendiente.
+Visualización pendiente de análisis.
 
 ### Evaluación Técnica
 Pendiente.
@@ -35,10 +33,9 @@ Pendiente.
 ---
 
 ## Visualización 3
-Pendiente de incorporar.
 
 ### Descripción
-Pendiente.
+Visualización pendiente de análisis.
 
 ### Evaluación Técnica
 Pendiente.
@@ -46,5 +43,7 @@ Pendiente.
 ### Evaluación Crítica
 Pendiente.
 
+### Propuesta de Mejora
+Pendiente.
 ### Propuesta de Mejora
 Pendiente.
